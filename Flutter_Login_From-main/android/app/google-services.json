@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825157484033",
+    "project_id": "clone-a82da",
+    "storage_bucket": "clone-a82da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825157484033:android:fc57317986add94499ca00",
+        "android_client_info": {
+          "package_name": "shubham.app.amazon_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825157484033-kdb1h58d553n0v0ot033dk6a89419f4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxFaqZP-7ZFBxJQ9S8ftTd2Gx-LBDyhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825157484033-kdb1h58d553n0v0ot033dk6a89419f4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
